@@ -93,11 +93,11 @@ const CartProvider: React.FC = ({ children }) => {
 
     setProducts(newProducts);
 
-    await AsyncStorage.removeItem(
+    await AsyncStorage.setItem(
       '@GoMarketplace:products',
       JSON.stringify(newProducts),
     );
-  }, []);
+  }, [products]);
 
   const value = React.useMemo(
     () => ({ addToCart, increment, decrement, products }),
