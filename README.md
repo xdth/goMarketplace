@@ -2,18 +2,19 @@
   goMarketplace
 </h3>
 
-<p align="center">
-  <a href="#rocket-sobre-o-desafio">Sobre o desafio</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#calendar-entrega">Entrega</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#memo-licença">Licença</a>
-</p>
+## Demo
 
-## :iphone: about goMarketplace
+<a href="https://www.youtube.com/watch?v=4FjDpaiXmlE" target="_blank" align="center">
+  <img src="https://i.imgur.com/MFc8lCX.png">
+</a>
+
+
+## About goMarketplace
 
 This app was built for the Rocketseat challenge #8, using React Native with TypeScript and applying techniques such as routes, async storage and context API.
 
 
-## :camera: Screenshots
+## Screenshots
 
 <img alt="goMarketplace" src="https://i.imgur.com/AbUkuyI.png" />
 
@@ -47,8 +48,3 @@ This app was built for the Rocketseat challenge #8, using React Native with Type
 
 - **`should load products from AsyncStorage`**
 
-## Demo
-
-<a href="https://www.youtube.com/watch?v=4FjDpaiXmlE" target="_blank" align="center">
-  <img src="https://i.imgur.com/MFc8lCX.png">
-</a>
