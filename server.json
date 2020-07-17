@@ -1,28 +1,76 @@
 {
   "products": [
     {
-      "id": "123",
-      "title": "Nome do produto 01",
-      "image_url": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/camiseta-ecommerce.jpg",
-      "price": 50
+      "id": "1",
+      "title": "Nike Air Max 270 React SE",
+      "image_url": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/89120cc5-0213-4c35-8224-d60469ce348f/air-max-270-react-se-shoe-QSGd7f.jpg",
+      "price": 159
     },
     {
-      "id": "1234",
-      "title": "Nome do produto 02",
-      "image_url": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/camiseta-ecommerce.jpg",
-      "price": 60
+      "id": "2",
+      "title": "Nike React Vision",
+      "image_url": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/a9cb0622-394a-480e-8b54-a63eb7bf83d8/react-vision-shoe-chCwkH.jpg",
+      "price": 129
     },
     {
-      "id": "12345",
-      "title": "Nome do produto 03",
-      "image_url": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/camiseta-ecommerce.jpg",
-      "price": 70
+      "id": "3",
+      "title": "Nike Air Zoom Pegasus 37",
+      "image_url": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/98403112-6391-4f29-80b8-0eb82264d98c/air-zoom-pegasus-37-running-shoe-W3gMz9.jpg",
+      "price": 119
     },
     {
-      "id": "123456",
-      "title": "Nome do produto 04",
-      "image_url": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/camiseta-ecommerce.jpg",
-      "price": 80
+      "id": "4",
+      "title": "LeBron 17 Low",
+      "image_url": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/0adfef77-1159-47c5-a877-ad1063002a1f/lebron-17-low-basketball-shoe-PpXJFC.jpg",
+      "price": 159
+    },
+    {
+      "id": "5",
+      "title": "Nike Air Max 90",
+      "image_url": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/ed507bd6-3f5e-43da-b91f-f385af43afba/air-max-90-shoe-5SF5FN.jpg",
+      "price": 139
+    },
+    {
+      "id": "6",
+      "title": "Jordan Max 200",
+      "image_url": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/0c596b76-7207-41cc-8890-4e4f9c7e594d/jordan-max-200-shoe-k46PVQ.jpg",
+      "price": 129
+    },
+    {
+      "id": "7",
+      "title": "Nike Air Max Plus",
+      "image_url": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/d7c63fe6-3cfb-4cb5-9eea-7d07489ec4b2/air-max-plus-shoe-sL45Qh.jpg",
+      "price": 169
+    },
+    {
+      "id": "8",
+      "title": "NikeCourt Air Zoom GP Turbo",
+      "image_url": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/f30c4703-04e8-40ca-92d8-a509ddd1c851/nikecourt-air-zoom-gp-turbo-hard-court-tennis-shoe-7QZ1f4.jpg",
+      "price": 139
+    },
+    {
+      "id": "9",
+      "title": "Nike Air Max Plus 3",
+      "image_url": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/4162cdef-ed2d-4dff-b777-e5afed5c4bd3/air-max-plus-3-shoe-H1l6JG.jpg",
+      "price": 179
+    },
+    {
+      "id": "10",
+      "title": "Nike Blazer Mid '77 Suede",
+      "image_url": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/i1-7e32a8d9-db1c-461a-a194-103202d2c4c3/blazer-mid-77-suede-shoe-Cl9nrl.jpg",
+      "price": 99
+    },
+    {
+      "id": "11",
+      "title": "Jordan Delta",
+      "image_url": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/aa9fddf6-ebca-48bb-8d4b-d859c1fbcc19/jordan-delta-shoe-CG4Hmv.jpg",
+      "price": 129
+    },
+    {
+      "id": "12",
+      "title": "Nike Downshifter 10 Special Edition",
+      "image_url": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/ce43681a-d7f0-42a3-9c50-2fcd3431f437/downshifter-10-special-edition-running-shoe-0zMBQb.jpg",
+      "price": 54
     }
   ]
 }
